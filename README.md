@@ -1,4 +1,4 @@
-![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedroraimondi/pedroraimondi/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">👋 Fala, eu sou o Pedro</h1>
 
 <p align="center">
@@ -89,7 +89,7 @@
 ## 📫 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEU_LINK">
+  <a href="https://www.linkedin.com/in/pedroraimondi/">
     <img src="https://img.shields.io/badge/LinkedIn-0d47a1?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
