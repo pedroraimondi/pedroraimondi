@@ -1,4 +1,5 @@
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/pedroraimondi/pedroraimondi/output/github-contribution-grid-snake-dark.svg" />
+
 <h1 align="center">👋 Fala, eu sou o Pedro</h1>
 
 <p align="center">
