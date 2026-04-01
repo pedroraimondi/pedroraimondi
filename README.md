@@ -1,3 +1,4 @@
+![snake gif](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">👋 Fala, eu sou o Pedro</h1>
 
 <p align="center">
