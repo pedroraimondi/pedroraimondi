@@ -70,7 +70,7 @@
 
 ---
 
-## 📈 Atividade (funciona sem action)
+## 📈 Atividade
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
