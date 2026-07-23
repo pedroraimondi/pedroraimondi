@@ -15,7 +15,7 @@
 - 🐳 Forte atuação com containers e servidores
 - ⚙️ Mentalidade: entender o sistema de ponta a ponta
 - 🚀 Curto otimizar, automatizar e escalar
-- 🎯 Resolver problema > escrever código bonito
+- 🎯 Resolver problema > escrever código
 
 ---
 
